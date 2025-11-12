@@ -4,3 +4,8 @@ seaborn
 matplotlib
 Pillow
 xlsxwriter
+plotly
+pandas
+streamlit
+altair
+plotly
